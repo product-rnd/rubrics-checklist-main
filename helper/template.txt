@@ -1,0 +1,14 @@
+Dear ${HONORIFIC} ${NAME},
+
+Terima kasih telah mengumpulkan Capstone Case: ${CASE}. Berikut penilaian dan feedback yang dapat kami sampaikan berdasarkan capstone yang telah Anda kerjakan:
+
+${POINTS}
+
+Berikut additional feedback dari kami:
+
+-
+
+Skor rubrik yang Anda peroleh adalah ${EARNED} dari ${TOTAL_POINTS}. ${FINAL_TEXT}
+
+Best regards,  
+Team Algoritma
